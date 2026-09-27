@@ -35,7 +35,7 @@ This project provides a graphical interface for playing the classic Tic-Tac-Toe 
 ```text
 Tic-Tac-Toe/
 │
-├── tic_tac_toe.py
+├── main_code.py
 ├── README.md
 └── images/
     └── tic-tac-toe.png
